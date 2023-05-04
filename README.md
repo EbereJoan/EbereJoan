@@ -1,4 +1,4 @@
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbereJoan&theme=radical)
+<!-- - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbereJoan&theme=radical) -->
 - 👋 Hi, I’m @EbereJoan
 - 👀 I’m interested in backend 
 - 🌱 I’m currently learning Javascript
