@@ -1,7 +1,7 @@
 <!-- - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbereJoan&theme=radical) -->
 - 👋 Hi, I’m @EbereJoan
-- 👀 I’m interested in backend 
-- 🌱 I’m currently learning Javascript
+- 👀 I’m a frontend developer 
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on interesting and challenging tasks
 - 📫 How to reach me LinkedIn and Twitter
 
